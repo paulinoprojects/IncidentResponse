@@ -50,3 +50,9 @@ Use your findings to improve the process, adjust your incident response policy, 
 5. Lessons learned: Conduct a post-mortem analysis of the incident to identify areas for improvement and develop a plan for preventing similar incidents in the future.
 
 
+## Best Practice for Building Your Incident Response Plan
+- Create a simple, well-defined process.
+- Create a communication strategy.
+- Use an incident response plan temaplte - prevent reinventing the wheel and provides quick reaction time.
+- Test your incident response plan - conduct realistic drills, exercises, and test detection tools/controls.
+- Use a centralized approach - minimize the amount of logging in to multiple tools aqnd correlating information between them. 
