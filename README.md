@@ -3,18 +3,18 @@
 ## Incident Response Lifecycle
 ![IR](https://user-images.githubusercontent.com/111991325/234446445-4cc85e7a-985b-4811-a963-2e4db4cd611b.png)
 
-### 1. Preparation
+#### 1. Preparation
 - To prepare for incidents, compile a list of IT assets such as networks, servers and endpoints, identifying their importance and which ones are critical or hold sensitive data. 
 - Set up monitoring so you have a baseline of normal activity. 
 - Determine which types of security events should be investigated, and create detailed response steps for common types of incidents.
 
 
-### 2. Detection and Analysis
+#### 2. Detection and Analysis
 - Detection involves collecting data from IT systems, security tools, publicly available information and people inside and outside the organization, and identifying precursors (signs that an incident may happen in the future) and indicators (data showing that an attack has happened or is happening now).
 - Analysis involves identifying a baseline or normal activity for the affected systems, correlating related events and seeing if and how they deviate from normal behavior.
 
 
-### 3. Containment, Eradication, and Recovery
+#### 3. Containment, Eradication, and Recovery
 - The goal of containment is to stop the attack before it overwhelms resources or causes damage. 
 - Your containment strategy will depend on the level of damage the incident can cause, the need to keep critical services available to employees and customers, and the duration of the solution—a temporary solution for a few hours, days or weeks, or a permanent solution. 
 - It is important to identify the attacking host and validate its IP address. This allows you to block communication from the attacker and also identify the threat actor to understand their mode of operation, search for and block other communication channels they may be using.
@@ -23,7 +23,7 @@
 
 - Finally, once the threat is eradicated, restore systems and recover normal operations as quickly as possible, taking steps to ensure the same assets are not attacked again.
 
-### 4. Post-Incident Activity
+#### 4. Post-Incident Activity
 - A central part of the NIST incident response methodology is learning from previous incidents to improve the process.
 
 You should ask, investigate and document the answers to the following questions:
